@@ -1,7 +1,3 @@
-# Data-Portfolio
-
-
-
 Welcome to my data analytics portfolio!
 This repository contains projects showcasing my experience in:
 
@@ -41,3 +37,23 @@ Folder: /looker-bigquery
 Status: 🟡 In progress
 Tools: BigQuery SQL, Looker Studio
 Highlights: SQL transformations, live dashboard.
+
+📈 Purpose of This Portfolio
+
+This portfolio demonstrates my capabilities across:
+
+Data modeling
+
+DAX & BI development
+
+SQL querying (including BigQuery)
+
+Dashboard design & storytelling
+
+KPI monitoring
+
+Data transformation
+
+End-to-end project delivery
+
+Projects will be updated progressively as I complete them.
