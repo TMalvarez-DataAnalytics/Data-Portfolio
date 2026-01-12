@@ -1,59 +1,183 @@
-Welcome to my data analytics portfolio!
-This repository contains projects showcasing my experience in:
-
-Power BI
+This repository contains selected data analytics projects showcasing skills in:
 
 SQL (BigQuery)
 
+Power BI
+
 Looker Studio
 
-Data modeling
+Data modeling & validation
 
-Dashboard design
+Dashboard design and analytical storytelling
 
-KPI creation and business analysis
+Each project focuses on real-world analytical problems, clean modeling, and business-ready insights.
 
-🔥 Projects Overview
-1. Sales Analytics Dashboard (Power BI)
+📍 Project 1 — US Natality Analysis
 
-Folder: /sales-pbi
+BigQuery + Looker Studio
 
-Status: 🟡 In progress
-Tools: Power BI, Excel
-Highlights: Sales trends, forecasting, RFM segmentation.
+Problem
 
-2. Operations / Call Center Dashboard (Power BI)
+Analyze birth trends in the United States by geography and time, enabling interactive exploration by year, state, and county.
 
-Folder: /ops-pbi
+Data Source
 
-Status: 🟡 In progress
-Tools: Power BI, Excel / synthetic dataset
-Highlights: SLA, AHT, agent performance, queue metrics.
+Public CDC Natality data (BigQuery public datasets).
 
-3. Marketing / Web Traffic Dashboard (Looker Studio + BigQuery)
+Data Modeling & Preparation
 
-Folder: /looker-bigquery
+Normalized geographic fields using state codes for mapping consistency
 
-Status: 🟡 In progress
-Tools: BigQuery SQL, Looker Studio
-Highlights: SQL transformations, live dashboard.
+Aggregated births at multiple grain levels (state, county, year)
 
-📈 Purpose of This Portfolio
+Implemented dynamic Top-N ranking using SQL window functions
 
-This portfolio demonstrates my capabilities across:
+Built reconciliation queries to validate totals between raw and aggregated layers
 
-Data modeling
+Tools Used
 
-DAX & BI development
+BigQuery (SQL)
 
-SQL querying (including BigQuery)
+Looker Studio
 
-Dashboard design & storytelling
+Key Features
 
-KPI monitoring
+Interactive US map by state
 
-Data transformation
+Year-based and cross-chart filtering
 
-End-to-end project delivery
+Dynamic Top 5 states by births
 
-Projects will be updated progressively as I complete them.
+Fully validated totals across views
+
+Dashboard
+
+👉 Public Looker Studio link:
+
+<<<<link pending>>>>
+
+🎮 Project 2 — Steam Analytics Dashboard
+
+Power BI
+
+Problem
+
+Analyze Steam gaming data to understand player behavior, game popularity, and performance trends.
+
+Data Scope
+
+Game titles
+
+Player counts / engagement metrics
+
+Categories and genres
+
+Time-based trends
+
+Data Modeling
+
+Cleaned and standardized categorical fields
+
+Built fact and dimension tables
+
+Created DAX measures for:
+
+Player engagement
+
+Ranking and comparison
+
+Trend analysis over time
+
+Tools Used
+
+Power BI
+
+DAX
+
+Power Query
+
+Key Features
+
+Top games by engagement
+
+Genre and category breakdowns
+
+Interactive slicers and drilldowns
+
+Clean KPI-focused layout
+
+Dashboard
+
+👉 Power BI Dashboard:
+https://github.com/TMalvarez-DataAnalytics/Data-Portfolio/tree/main/Steam%20Analytics
+
+💰 Project 3 — Sales Performance Dashboard
+
+Power BI
+
+Problem
+
+Provide a clear and actionable view of sales performance to support business decision-making.
+
+Data Scope
+
+Sales transactions
+
+Time (year, month)
+
+Products / categories
+
+Revenue and volume metrics
+
+Data Modeling
+
+Star schema design
+
+Calculated measures for:
+
+Total sales
+
+Growth rates
+
+Period-over-period comparisons
+
+Applied best practices for filter context and performance
+
+Tools Used
+
+Power BI
+
+DAX
+
+Power Query
+
+Key Features
+
+Sales trends over time
+
+Top products and categories
+
+Interactive filtering
+
+Executive-friendly KPI visuals
+
+Dashboard
+
+👉 Power BI Dashboard:
+https://github.com/TMalvarez-DataAnalytics/Data-Portfolio/tree/main/sales-pbi
+
+🛠 Skills Demonstrated Across Projects
+
+SQL aggregation and window functions
+
+Data reconciliation and validation
+
+Geographic data normalization
+
+BI semantic modeling
+
+DAX measure design
+
+Dashboard UX and storytelling
+
+Stakeholder-ready analytics
