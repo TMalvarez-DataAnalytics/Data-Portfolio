@@ -1,9 +1,7 @@
 Dashboard Embed
 > Embedded interactive dashboard (opens externally)
 
-https://lookerstudio.google.com/embed/reporting/<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/a955aa9c-1b92-4202-8570-62fc6b6c7a48/page/GUgkF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
-
-
+https://lookerstudio.google.com/embed/reporting/a955aa9c-1b92-4202-8570-62fc6b6c7a48/page/GUgkF
 
 
 
