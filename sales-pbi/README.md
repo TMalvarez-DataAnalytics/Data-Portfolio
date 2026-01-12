@@ -1,11 +1,49 @@
-## Dataset
+Project 3 — Sales Performance Dashboard
 
-Source: Kaggle – International Sales Dataset
+Power BI
 
-The original raw CSV files exceed GitHub's file size limits and are therefore not stored in this repository.
+Problem
 
-To reproduce this project:
-1. Download the dataset from Kaggle (https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data?resource=download)
-2. Open the Power BI file included in this project
+Provide a clear and actionable view of sales performance to support business decision-making.
 
-The cleaned and transformed data is handled inside Power BI using Power Query.
+Data Scope
+
+Sales transactions
+
+Time (year, month)
+
+Products / categories
+
+Revenue and volume metrics
+
+Data Modeling
+
+Star schema design
+
+Calculated measures for:
+
+Total sales
+
+Growth rates
+
+Period-over-period comparisons
+
+Applied best practices for filter context and performance
+
+Tools Used
+
+Power BI
+
+DAX
+
+Power Query
+
+Key Features
+
+Sales trends over time
+
+Top products and categories
+
+Interactive filtering
+
+Executive-friendly KPI visuals
