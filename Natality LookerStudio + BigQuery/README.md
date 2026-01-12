@@ -1,15 +1,3 @@
-Dashboard Embed
-> Embedded interactive dashboard (opens externally)
-
-https://lookerstudio.google.com/embed/reporting/a955aa9c-1b92-4202-8570-62fc6b6c7a48/page/GUgkF
-
-
-
-
-
-
-
-
 Project Link:
 https://lookerstudio.google.com/s/o-Mt5WD_gKw
 
